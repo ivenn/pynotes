@@ -1,0 +1,24 @@
+# Python temporary files and folder
+__pycache__/
+*.py[cod]
+
+# Ignore folder for virtual environment
+venv/
+
+# IDEA settings
+.idea/
+
+# SQLite files
+*.db
+*.db-journal
+*.sqlite3
+
+# coverage report files
+.coverage
+
+# Logging folder
+server/log/
+test/log/
+
+# Mac specific
+.DS_Store
